@@ -29,6 +29,7 @@
     <SolidColorBrush x:Key="SecondaryTextForeground" Color="#FF5b5b5b" />
     <SolidColorBrush x:Key="InactiveSelectionHighlightBrushKey" Color="Black" />
     <SolidColorBrush x:Key="BorderBrush" Color="Transparent" />
+
     <SolidColorBrush x:Key="ScrollBarThumbBackground" Color="#FF7a7a7a" />
     <Color x:Key="ScrollBarThumbPointerOver">#FFa0a0a0</Color>
     <Color x:Key="ScrollBarThumbPointerPressed">#FF747474</Color>
